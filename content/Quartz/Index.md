@@ -4,8 +4,7 @@ longform:
   title: Quartz
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Intro
+  scenes: []
   sceneTemplate: templates/ruimte.md
   ignoredFiles: []
 ---

@@ -5,11 +5,17 @@ title: Mergelland 67
 
 **Beganegrond**
 [[Hal]]
+
 [[Eetkamer]]
+
 [[Keuken]]
+
 [[Woonkamer]]
+
 [[Trappenkast]]
+
 [[Toilet]]
+
 [[Trap]]
 
 ![[PlattegrondBoven.png|400]]

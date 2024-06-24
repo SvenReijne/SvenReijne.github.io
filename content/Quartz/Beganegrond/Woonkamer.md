@@ -5,6 +5,7 @@ tags:
   - beganegrond
 ---
 ![[Woonkamer.png|300]]
+
 **Benodigdheden**
 - [ ] Hoekbank
 - [ ] Losse stoel

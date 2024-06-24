@@ -5,6 +5,7 @@ tags:
   - boven
 ---
 ![[Badkamer.png|300]]
+
 **Benodigdheden**
 - [ ] Tegels
 - [ ] Douche

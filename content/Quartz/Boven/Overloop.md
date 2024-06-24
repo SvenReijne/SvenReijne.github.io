@@ -5,6 +5,7 @@ tags:
   - boven
 ---
 ![[Boven/Overloop.png|300]]
+
 **Benodigdheden**
 - [ ] Nachtlampje
 - [ ] Klok

@@ -5,6 +5,7 @@ tags:
   - beganegrond
 ---
 ![[Trap.png|300]]
+
 **Benodigdheden**
 - [ ] Taatsdeur naar eetkamer
 - [ ] Trap zelf

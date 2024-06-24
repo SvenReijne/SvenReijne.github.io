@@ -11,4 +11,3 @@ tags:
 - [ ] Tafeltje
 - [ ] Spulletjes voor aan de muur
 - [ ] Verlichting
-- [ ] 

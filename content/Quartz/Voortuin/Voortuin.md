@@ -5,6 +5,7 @@ tags:
   - voortuin
 ---
 ![[PlattegrondVoortuin.png|400]]
+
 **Benodigdheden**
 - [ ] Deurbel
 - [ ] Nummerbord

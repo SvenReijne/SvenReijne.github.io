@@ -2,6 +2,7 @@
 title: Mergelland 67
 ---
 ![[PlattegrondBeganegrond.png|400]]
+
 **Beganegrond**
 [[Hal]]
 [[Eetkamer]]
@@ -12,6 +13,7 @@ title: Mergelland 67
 [[Trap]]
 
 ![[PlattegrondBoven.png|400]]
+
 **Boven**
 [[Boven/Overloop]]
 [[WerkkamerKlein]]
@@ -20,15 +22,18 @@ title: Mergelland 67
 [[Badkamer]]
 
 ![[PlattegrondZolder.png|400]]
+
 **Zolder**
 [[Zolder/Overloop]]
 [[Logeerkamer]]
 
 ![[PlattegrondVoortuin.png|400]]
+
 **Voortuin**
 [[Voortuin]]
 
 ![[PlattegrondAchtertuin.png|300]]![[PlattegrondOverkapping.png|300]]
+
 
 **Achtertuin**
 [[Achtertuin]]

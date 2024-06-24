@@ -5,6 +5,7 @@ tags:
   - boven
 ---
 ![[WerkkamerKlein.png|300]]
+
 **Benodigdheden**
 - [ ] Netwerkswitch
 - [ ] Verf

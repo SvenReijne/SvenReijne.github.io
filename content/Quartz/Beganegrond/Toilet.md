@@ -5,6 +5,7 @@ tags:
   - beganegrond
 ---
 ![[Toilet.png|300]]
+
 **Benodigdheden**
 - [ ] Toiletbril
 - [ ] Toiletborstel

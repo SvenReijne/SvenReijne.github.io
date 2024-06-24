@@ -5,6 +5,7 @@ tags:
   - beganegrond
 ---
 ![[Hal.png|300]]
+
 **Benodigdheden**
 - [ ] Spiegel
 - [ ] Schoenenkast

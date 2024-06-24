@@ -5,6 +5,7 @@ tags:
   - boven
 ---
 ![[WerkkamerGroot.png|300]]
+
 **Benodigdheden**
 - [ ] Netwerkswitch
 - [ ] Kast? (handdoeken etc)

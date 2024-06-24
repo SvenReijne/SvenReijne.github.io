@@ -5,6 +5,7 @@ tags:
   - beganegrond
 ---
 ![[Eetkamer.png|400]]
+
 **Benodigdheden**
 - [ ] Eettafel
 - [ ] Eetstoelen

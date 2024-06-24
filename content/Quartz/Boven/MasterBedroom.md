@@ -5,6 +5,7 @@ tags:
   - boven
 ---
 ![[Masterbedroom.png|300]]
+
 **Benodigdheden**
 - [ ] Bed 180x220
 - [ ] Deken afmeting tbd

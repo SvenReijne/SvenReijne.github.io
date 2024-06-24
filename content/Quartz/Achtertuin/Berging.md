@@ -5,6 +5,7 @@ tags:
   - achtertuin
 ---
 ![[PlattegrondOverkapping.png|300]]
+
 **Benodigdheden**
 - [ ] Ladder
 - [ ] Verlichting

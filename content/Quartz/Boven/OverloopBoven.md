@@ -4,7 +4,7 @@ draft: false
 tags:
   - boven
 ---
-![[Boven/Overloop.png|300]]
+![[content/Quartz/Boven/OverloopBoven.png|300]]
 
 **Benodigdheden**
 - [ ] Nachtlampje

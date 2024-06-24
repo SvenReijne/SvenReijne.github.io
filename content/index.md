@@ -15,7 +15,7 @@ title: Mergelland 67
 ![[PlattegrondBoven.png|400]]
 
 **Boven**
-[[Boven/Overloop]]
+[[content/Quartz/Boven/OverloopBoven]]
 [[WerkkamerKlein]]
 [[MasterBedroom]]
 [[WerkkamerGroot]]
@@ -24,7 +24,7 @@ title: Mergelland 67
 ![[PlattegrondZolder.png|400]]
 
 **Zolder**
-[[Zolder/Overloop]]
+[[content/Quartz/Zolder/OverloopBoven]]
 [[Logeerkamer]]
 
 ![[PlattegrondVoortuin.png|400]]

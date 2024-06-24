@@ -15,4 +15,3 @@ tags:
 - [ ] Tuinslang
 - [ ] Verlichting
 - [ ] Barbecue
-- [ ] 

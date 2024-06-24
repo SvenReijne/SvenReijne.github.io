@@ -4,7 +4,7 @@ draft: false
 tags:
   - zolder
 ---
-![[Zolder/Overloop.png|250]]
+![[content/Quartz/Zolder/OverloopBoven.png|250]]
 **Benodigdheden**
 - [ ] Rookmelder
 - [ ] Koolstofmonoxide 

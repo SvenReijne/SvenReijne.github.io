@@ -1,10 +1,11 @@
 ---
-title: Overloop
+title: OverloopBoven
 draft: false
 tags:
   - zolder
 ---
-![[content/Quartz/Zolder/OverloopBoven.png|250]]
+![[OverloopBoven.png|200]]
+
 **Benodigdheden**
 - [ ] Rookmelder
 - [ ] Koolstofmonoxide 

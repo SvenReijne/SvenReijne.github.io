@@ -1,10 +1,10 @@
 ---
-title: OverloopBoven
+title: OverloopZolder
 draft: false
 tags:
   - zolder
 ---
-![[OverloopBoven.png|200]]
+![[OverloopZolder.png|200]]
 
 **Benodigdheden**
 - [ ] Rookmelder

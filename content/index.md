@@ -24,7 +24,7 @@ title: Mergelland 67
 ![[PlattegrondZolder.png|400]]
 
 **Zolder**
-[[content/Quartz/Zolder/OverloopBoven]]
+[[OverloopZolder]]
 [[Logeerkamer]]
 
 ![[PlattegrondVoortuin.png|400]]

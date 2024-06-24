@@ -1,0 +1,59 @@
+---
+title: Keuken
+draft: false
+tags:
+  - beganegrond
+---
+![[Keuken.png|300]]
+**Benodigdheden**
+- [ ] Bestek
+- [x] Vleesmessen
+- [ ] Stokjes
+- [ ] Kommetjes in verschillende maten
+- [ ] Bakjes (chips)
+- [ ] Mand voor chips
+- [ ] Borden in verschillende maten
+- [ ] Bekers
+- [ ] Mokken
+- [ ] Theeglazen
+- [ ] Koffiebekers
+- [ ] Magnetron
+- [ ] Potten en pannen
+- [ ] Spatels
+- [ ] Kookgerei
+- [ ] Vleestang
+- [ ] Pannenlap
+- [ ] Kruiden, zout, peper, vetsin
+- [ ] Olie
+- [ ] Theedoek + kleine handdoek
+- [ ] Kleine snijplanken
+- [ ] Kleine schoonmaakdoekjes
+- [ ] Sponsjes
+- [ ] Afwasborstel
+- [ ] Zeep
+- [ ] Handzeep
+- [ ] Vaatwastabletten
+- [ ] Bakpapier
+- [ ] Prullenbak
+- [ ] Afvalzakken
+- [ ] Keukenrol\
+- [ ] Keukenrolhouder
+- [ ] Slabak
+- [ ] Waterkoker
+- [ ] Minutegrill
+- [ ] Frituurpan
+- [ ] Frituurvet
+- [ ] Airfryer
+- [ ] Rijstkoker
+- [ ] Koffiezetapparaat accessoires
+- [ ] Koffiemelk/crème
+- [ ] Suiker
+- [ ] Rekje voor aan de muur
+- [ ] Whiteboard voor aan de muur
+- [ ] Azijn
+- [ ] Lamp
+- [ ] Mandje met medicatie/pleisters/ehbo
+- [ ] Klok
+- [ ] Stoffer/blik
+- [ ] Theesetje voor 1p (meerdere)
+- [ ] Emmer

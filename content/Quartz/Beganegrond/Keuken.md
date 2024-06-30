@@ -58,3 +58,14 @@ tags:
 - [ ] Stoffer/blik
 - [ ] Theesetje voor 1p (meerdere)
 - [ ] Emmer
+- [ ] IJsschepje
+- [ ] Eierdopjes
+- [ ] Saranwrap
+- [ ] Aluminiumfolie
+- [ ] Bakplaten?
+- [ ] Bakpapier
+- [ ] IJsklontjesvorm
+- [ ] Opscheplepels
+- [ ] Boodschappentassen+kratje
+- [ ] Kaasschaaf
+- [ ] 

@@ -13,3 +13,4 @@ tags:
 - [ ] Verf
 - [ ] Vloer
 - [ ] Schilderij?
+- [ ] Vaas

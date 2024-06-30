@@ -11,6 +11,7 @@ tags:
 - [ ] Verlichting
 - [ ] Kastje/plankjes voor boven container
 - [ ] Vriezer
-- [ ] IJsklontjes vorm
 - [ ] Schoffel
 - [ ] Heggenschaar enzo, om planten weg te halen
+- [ ] Fietspomp
+- [ ] Bandenplaksetje

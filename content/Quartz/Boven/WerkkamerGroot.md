@@ -8,6 +8,7 @@ tags:
 
 **Benodigdheden**
 - [ ] Netwerkswitch
+- [ ] Netwerkkabels
 - [ ] Kast? (handdoeken etc)
 - [ ] Gemeentestuff
 - [ ] Verf

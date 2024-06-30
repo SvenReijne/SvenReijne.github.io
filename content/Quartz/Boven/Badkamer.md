@@ -13,9 +13,9 @@ tags:
 - [ ] Wastafel
 - [ ] Kastje?
 - [ ] Shampoo
-- [ ] Washandjes
-- [ ] Handdoeken
-- [ ] Handdoek klein
+- [x] Washandjes
+- [x] Handdoeken
+- [x] Handdoek klein
 - [ ] Handzeep
 - [ ] Douchegel
 - [ ] Conditioner
@@ -32,3 +32,4 @@ tags:
 - [ ] Brillendoekjes
 - [ ] Wattenstaafjes
 - [ ] Wasmand x2
+- [ ] Föhn

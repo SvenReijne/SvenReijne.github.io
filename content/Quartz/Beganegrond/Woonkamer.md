@@ -11,6 +11,8 @@ tags:
 - [ ] Losse stoel
 - [ ] TV
 - [ ] TV meubel
+- [ ] Soundbar
+- [ ] Philips hue
 - [ ] Lampen? (hangen al spotjes)
 - [ ] Vloerkleed?
 - [ ] Salontafel
@@ -21,3 +23,4 @@ tags:
 - [ ] Zwevende plankjes
 - [ ] Klok
 - [ ] Gordijnen
+- [ ] Elektrische vliegenmepper

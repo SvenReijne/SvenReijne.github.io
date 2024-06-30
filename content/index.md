@@ -1,5 +1,5 @@
 ---
-title: Mergelland 67
+title: Huisje
 ---
 ![[PlattegrondBeganegrond.png|400]]
 

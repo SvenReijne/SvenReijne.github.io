@@ -14,3 +14,4 @@ tags:
 - [ ] Verf
 - [ ] Lamp
 - [ ] Gordijnen
+- [ ] Printer

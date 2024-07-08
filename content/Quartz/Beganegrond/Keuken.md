@@ -68,4 +68,6 @@ tags:
 - [ ] Opscheplepels
 - [ ] Boodschappentassen+kratje
 - [ ] Kaasschaaf
-- [ ] 
+- [ ] Onderzetters voor pannen, pannenlap
+- [ ] Viltjes
+- [ ] Eierprikker

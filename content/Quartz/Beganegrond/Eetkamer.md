@@ -7,10 +7,11 @@ tags:
 ![[Eetkamer.png|400]]
 
 **Benodigdheden**
-- [ ] Eettafel
-- [ ] Eetstoelen
+- [x] Eettafel
+- [ ] Tafelkleed
+- [x] Eetstoelen
 - [ ] Lamp
 - [ ] Verf
-- [ ] Vloer
+- [x] Vloer
 - [ ] Schilderij?
 - [ ] Vaas

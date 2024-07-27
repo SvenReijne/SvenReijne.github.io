@@ -7,20 +7,20 @@ tags:
 ![[Woonkamer.png|300]]
 
 **Benodigdheden**
-- [ ] Hoekbank
+- [x] Hoekbank
 - [ ] Losse stoel
 - [ ] TV
-- [ ] TV meubel
+- [x] TV meubel
 - [ ] Soundbar
 - [ ] Philips hue
 - [ ] Lampen? (hangen al spotjes)
 - [ ] Vloerkleed?
-- [ ] Salontafel
-- [ ] Deurmatje?
+- [x] Salontafel
+- [x] Deurmatje?
 - [ ] Verf
 - [ ] Kast
 - [ ] Kamerplanten
 - [ ] Zwevende plankjes
 - [ ] Klok
 - [ ] Gordijnen
-- [ ] Elektrische vliegenmepper
+- [x] Elektrische vliegenmepper

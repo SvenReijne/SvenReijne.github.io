@@ -9,6 +9,6 @@ tags:
 **Benodigdheden**
 - [ ] Schoonmaakspullen
 - [ ] Ramenzeem elektrisch?
-- [ ] Stofzuiger
+- [x] Stofzuiger
 - [ ] Kast/planken
 - [ ] Lamp?

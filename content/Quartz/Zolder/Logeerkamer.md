@@ -9,8 +9,8 @@ tags:
 **Benodigdheden**
 - [ ] Airco kapot, fixen/nieuwe?
 - [ ] Verf
-- [ ] 2p bed, dekbed etc
-- [ ] Nachtkastje
+- [x] 2p bed, dekbed etc
+- [x] Nachtkastje
 - [ ] Verlichting
 - [ ] Kastje
 - [ ] Gordijnen

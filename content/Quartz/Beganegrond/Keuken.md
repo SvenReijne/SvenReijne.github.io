@@ -9,31 +9,31 @@ tags:
 **Benodigdheden**
 - [ ] Bestek
 - [x] Vleesmessen
-- [ ] Stokjes
+- [x] Stokjes
 - [ ] Kommetjes in verschillende maten
 - [ ] Bakjes (chips)
 - [ ] Mand voor chips
-- [ ] Borden in verschillende maten
-- [ ] Bekers
-- [ ] Mokken
-- [ ] Theeglazen
-- [ ] Koffiebekers
+- [x] Borden in verschillende maten
+- [x] Bekers
+- [x] Mokken
+- [x] Theeglazen
+- [x] Koffiebekers
 - [ ] Magnetron
 - [ ] Potten en pannen
 - [ ] Spatels
-- [ ] Kookgerei
+- [x] Kookgerei
 - [ ] Vleestang
 - [ ] Pannenlap
 - [ ] Kruiden, zout, peper, vetsin
 - [ ] Olie
-- [ ] Theedoek + kleine handdoek
+- [x] Theedoek + kleine handdoek
 - [ ] Kleine snijplanken
 - [ ] Kleine schoonmaakdoekjes
 - [ ] Sponsjes
 - [ ] Afwasborstel
 - [ ] Zeep
 - [ ] Handzeep
-- [ ] Vaatwastabletten
+- [x] Vaatwastabletten
 - [ ] Bakpapier
 - [ ] Prullenbak
 - [ ] Afvalzakken
@@ -41,11 +41,11 @@ tags:
 - [ ] Keukenrolhouder
 - [ ] Slabak
 - [ ] Waterkoker
-- [ ] Minutegrill
+- [x] Minutegrill
 - [ ] Frituurpan
 - [ ] Frituurvet
 - [ ] Airfryer
-- [ ] Rijstkoker
+- [x] Rijstkoker
 - [ ] Koffiezetapparaat accessoires
 - [ ] Koffiemelk/crème
 - [ ] Suiker
@@ -65,9 +65,9 @@ tags:
 - [ ] Bakplaten?
 - [ ] Bakpapier
 - [ ] IJsklontjesvorm
-- [ ] Opscheplepels
+- [x] Opscheplepels
 - [ ] Boodschappentassen+kratje
 - [ ] Kaasschaaf
-- [ ] Onderzetters voor pannen, pannenlap
-- [ ] Viltjes
+- [x] Onderzetters voor pannen
+- [x] Viltjes
 - [ ] Eierprikker

@@ -6,7 +6,7 @@ tags:
 ---
 **Benodigdheden**
 - [ ] Sloten vervangen
-- [ ] Inboedelverzekering
+- [x] Inboedelverzekering
 - [ ] Kaartje voor buren
 - [ ] Zonnepanelen?
 - [ ] Airco in het algemeen

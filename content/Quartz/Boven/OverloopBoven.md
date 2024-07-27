@@ -9,7 +9,7 @@ tags:
 **Benodigdheden**
 - [ ] Nachtlampje
 - [ ] Klok
-- [ ] Rookmelder
+- [x] Rookmelder
 - [ ] Vloer??
 - [ ] Verf
 - [ ] Lamp

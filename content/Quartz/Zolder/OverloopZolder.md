@@ -7,8 +7,8 @@ tags:
 ![[OverloopZolder.png|200]]
 
 **Benodigdheden**
-- [ ] Rookmelder
-- [ ] Koolstofmonoxide 
+- [x] Rookmelder
+- [x] Koolstofmonoxide 
 - [ ] Wasmachine
 - [ ] Droger
 - [ ] Bak voor wasmachine/droger

@@ -7,10 +7,10 @@ tags:
 ![[Badkamer.png|300]]
 
 **Benodigdheden**
-- [ ] Tegels
-- [ ] Douche
-- [ ] Wc
-- [ ] Wastafel
+- [x] Tegels
+- [x] Douche
+- [x] Wc
+- [x] Wastafel
 - [ ] Kastje?
 - [ ] Shampoo
 - [x] Washandjes
@@ -20,14 +20,14 @@ tags:
 - [ ] Douchegel
 - [ ] Conditioner
 - [ ] Crème
-- [ ] Spiegel
+- [x] Spiegel
 - [ ] Scheermesjes
 - [ ] Mandje voor maandelijkse spulletjes
-- [ ] Wc rol houder
-- [ ] Wc borstel + houder
-- [ ] Wc bril
+- [x] Wc rol houder
+- [x] Wc borstel + houder
+- [x] Wc bril
 - [ ] Douche matje
-- [ ] Shampoo houder
+- [x] Shampoo houder
 - [ ] Zeemtrekker klein + groot
 - [ ] Brillendoekjes
 - [ ] Wattenstaafjes

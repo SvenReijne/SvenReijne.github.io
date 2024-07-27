@@ -13,11 +13,11 @@ tags:
 - [ ] Kussensloop x2
 - [ ] Dekbedovertrek x2
 - [ ] Nachtkastje x2
-- [ ] Lämp
+- [x] Lämp
 - [ ] Lamp
-- [ ] Wekker
+- [x] Wekker
 - [ ] Stekkerblok
-- [ ] Spiegel
+- [x] Spiegel
 - [ ] Kast
 - [ ] Hor
 - [ ] Gordijnen

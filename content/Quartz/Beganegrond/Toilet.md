@@ -17,5 +17,5 @@ tags:
 - [ ] Wc rollen
 - [ ] Luchtverfrisser
 - [ ] Handzeep
-- [ ] Kleine handdoek
+- [x] Kleine handdoek
 - [ ] Lamp

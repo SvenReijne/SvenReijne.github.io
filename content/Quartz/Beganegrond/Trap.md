@@ -8,10 +8,10 @@ tags:
 
 **Benodigdheden**
 - [ ] Taatsdeur naar eetkamer
-- [ ] Trap zelf
+- [x] Trap zelf
 - [ ] Verlichting
 - [ ] Lamp voor in de hal
 - [ ] Leuning?
-- [ ] Vloer
+- [x] Vloer
 - [ ] Witte verf
-- [ ] Rookmelder
+- [x] Rookmelder

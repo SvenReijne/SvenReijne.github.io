@@ -12,10 +12,10 @@ tags:
 - [ ] Kapstok/kledinghanger
 - [ ] Sleutelhouder?
 - [ ] Verf?
-- [ ] Vloer? door laten lopen?
+- [x] Vloer? door laten lopen?
 - [ ] Taatsdeur
 - [ ] Lamp
-- [ ] Router (meterkast)
+- [x] Router (meterkast)
 - [ ] Tochtstrip voordeur?
 - [ ] Sleutelbakje voordeur (bleep bleep bloop)
 - [ ] Bezorgbak voordeur

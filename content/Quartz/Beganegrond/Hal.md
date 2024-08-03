@@ -11,7 +11,7 @@ tags:
 - [ ] Schoenenkast
 - [ ] Kapstok/kledinghanger
 - [ ] Sleutelhouder?
-- [ ] Verf?
+- [x] Verf?
 - [x] Vloer? door laten lopen?
 - [ ] Taatsdeur
 - [ ] Lamp

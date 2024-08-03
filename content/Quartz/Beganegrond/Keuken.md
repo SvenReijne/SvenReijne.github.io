@@ -7,7 +7,7 @@ tags:
 ![[Keuken.png|300]]
 
 **Benodigdheden**
-- [ ] Bestek
+- [x] Bestek
 - [x] Vleesmessen
 - [x] Stokjes
 - [ ] Kommetjes in verschillende maten
@@ -23,24 +23,24 @@ tags:
 - [ ] Spatels
 - [x] Kookgerei
 - [ ] Vleestang
-- [ ] Pannenlap
+- [x] Pannenlap
 - [ ] Kruiden, zout, peper, vetsin
 - [ ] Olie
 - [x] Theedoek + kleine handdoek
-- [ ] Kleine snijplanken
-- [ ] Kleine schoonmaakdoekjes
-- [ ] Sponsjes
-- [ ] Afwasborstel
+- [x] Kleine snijplanken
+- [x] Kleine schoonmaakdoekjes
+- [x] Sponsjes
+- [x] Afwasborstel
 - [ ] Zeep
 - [ ] Handzeep
 - [x] Vaatwastabletten
 - [ ] Bakpapier
 - [ ] Prullenbak
-- [ ] Afvalzakken
+- [x] Afvalzakken
 - [ ] Keukenrol\
 - [ ] Keukenrolhouder
 - [ ] Slabak
-- [ ] Waterkoker
+- [x] Waterkoker
 - [x] Minutegrill
 - [ ] Frituurpan
 - [ ] Frituurvet
@@ -55,19 +55,19 @@ tags:
 - [ ] Lamp
 - [ ] Mandje met medicatie/pleisters/ehbo
 - [ ] Klok
-- [ ] Stoffer/blik
+- [x] Stoffer/blik
 - [ ] Theesetje voor 1p (meerdere)
-- [ ] Emmer
-- [ ] IJsschepje
+- [x] Emmer
+- [x] IJsschepje
 - [ ] Eierdopjes
 - [ ] Saranwrap
 - [ ] Aluminiumfolie
 - [ ] Bakplaten?
 - [ ] Bakpapier
-- [ ] IJsklontjesvorm
+- [x] IJsklontjesvorm
 - [x] Opscheplepels
 - [ ] Boodschappentassen+kratje
-- [ ] Kaasschaaf
+- [x] Kaasschaaf
 - [x] Onderzetters voor pannen
 - [x] Viltjes
-- [ ] Eierprikker
+- [x] Eierprikker

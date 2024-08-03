@@ -11,6 +11,6 @@ tags:
 - [ ] Klok
 - [x] Rookmelder
 - [ ] Vloer??
-- [ ] Verf
+- [x] Verf
 - [ ] Lamp
 - [ ] Accesspoint

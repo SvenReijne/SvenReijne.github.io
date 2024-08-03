@@ -8,10 +8,10 @@ tags:
 
 **Benodigdheden**
 - [ ] Toiletbril
-- [ ] Toiletborstel
-- [ ] Toiletborstel houder
+- [x] Toiletborstel
+- [x] Toiletborstel houder
 - [ ] Ontstopper
-- [ ] Prullenbakje
+- [x] Prullenbakje
 - [ ] Mandje voor maandelijkse spullen
 - [ ] Wc rol houder
 - [ ] Wc rollen

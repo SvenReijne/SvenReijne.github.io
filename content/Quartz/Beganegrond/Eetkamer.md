@@ -11,7 +11,7 @@ tags:
 - [ ] Tafelkleed
 - [x] Eetstoelen
 - [ ] Lamp
-- [ ] Verf
+- [x] Verf
 - [x] Vloer
 - [ ] Schilderij?
 - [ ] Vaas

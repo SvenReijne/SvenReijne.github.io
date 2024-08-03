@@ -7,7 +7,7 @@ tags:
 ![[Trap.png|300]]
 
 **Benodigdheden**
-- [ ] Schoonmaakspullen
+- [x] Schoonmaakspullen
 - [ ] Ramenzeem elektrisch?
 - [x] Stofzuiger
 - [ ] Kast/planken

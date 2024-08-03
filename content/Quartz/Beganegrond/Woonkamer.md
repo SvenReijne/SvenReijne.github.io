@@ -17,7 +17,7 @@ tags:
 - [ ] Vloerkleed?
 - [x] Salontafel
 - [x] Deurmatje?
-- [ ] Verf
+- [x] Verf
 - [ ] Kast
 - [ ] Kamerplanten
 - [ ] Zwevende plankjes

@@ -7,7 +7,7 @@ tags:
 ![[WerkkamerGroot.png|300]]
 
 **Benodigdheden**
-- [ ] Netwerkswitch
+- [x] Netwerkswitch
 - [ ] Netwerkkabels
 - [ ] Kast? (handdoeken etc)
 - [ ] Gemeentestuff

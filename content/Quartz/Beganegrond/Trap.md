@@ -13,5 +13,5 @@ tags:
 - [ ] Lamp voor in de hal
 - [ ] Leuning?
 - [x] Vloer
-- [ ] Witte verf
+- [x] Witte verf
 - [x] Rookmelder
